@@ -32,20 +32,18 @@ OOP_Game/ │ ├── src/ # Source code (.cpp files) ├── include/ # Hea
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/your-username/Cpp-OOP-Combat.git
-   cd Cpp-OOP-Combat
+   cd Cpp-OOP-Combat```
 
 2. **Build the project:**
-    make
+    ```make```
 
 3. ** Run the game: **
-    ./game
+    ```./game```
 
 4. ** Clean build files (optional): **
-    make clean
+   ``` make clean```
 
-```
-
-```🎮 How to Play
+**🎮 How to Play**
 When you start the game, you will be asked to:
 
 Select a weapon (0 for Sword, 1 for Dagger)
@@ -59,7 +57,6 @@ The player attacks the enemy.
 The enemy attacks back.
 
 The game ends when either the player or the enemy's health drops to zero.
-```
 
 📜 License
 This project is for educational purposes and is open-source.
