@@ -46,17 +46,17 @@ OOP_Game/ │ ├── src/ # Source code (.cpp files) ├── include/ # Hea
 **🎮 How to Play:**
     When you start the game, you will be asked to:
 
-    	Select a weapon (0 for Sword, 1 for Dagger) 
+    Select a weapon (0 for Sword, 1 for Dagger) 
 
-    	Select a player class (0 for Armored Player, 1 for Healer Player)
+    Select a player class (0 for Armored Player, 1 for Healer Player)
 
     Each turn:
 
-	The player attacks the enemy.
-
-	The enemy attacks back.
-
-	The game ends when either the player or the enemy's health drops to zero.
+    The player attacks the enemy.
+    
+    The enemy attacks back.
+    
+    The game ends when either the player or the enemy's health drops to zero.
 
 📜 License
 This project is for educational purposes and is open-source.
