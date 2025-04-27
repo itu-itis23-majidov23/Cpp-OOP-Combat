@@ -43,7 +43,9 @@ OOP_Game/ │ ├── src/ # Source code (.cpp files) ├── include/ # Hea
 4. **Clean build files (optional):**
    ``` make clean```
 
-**🎮 How to Play:**
+---
+
+## **🎮 How to Play:**
     When you start the game, you will be asked to:
 
     Select a weapon (0 for Sword, 1 for Dagger) 
@@ -57,7 +59,9 @@ OOP_Game/ │ ├── src/ # Source code (.cpp files) ├── include/ # Hea
     The enemy attacks back.
     
     The game ends when either the player or the enemy's health drops to zero.
+---
 
-📜 License
+
+📜 License:
 This project is for educational purposes and is open-source.
 Feel free to fork, learn, and improve it!
