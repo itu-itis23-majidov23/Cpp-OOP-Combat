@@ -62,6 +62,6 @@ OOP_Game/ │ ├── src/ # Source code (.cpp files) ├── include/ # Hea
 ---
 
 
-📜 License:
+**📜 License:**
 This project is for educational purposes and is open-source.
 Feel free to fork, learn, and improve it!
